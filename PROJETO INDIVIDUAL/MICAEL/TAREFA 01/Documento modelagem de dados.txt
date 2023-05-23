@@ -1,0 +1,71 @@
+
+1. Cadastro de Produtos (Papelaria)
+
+Entidade:
+	Produtos
+
+Atributos: 
+	ID (PK)
+	Nome
+	Fornecedor
+	Valor_do_Produto
+	Qtd_Estoque
+	Setor_Produto
+	Descrição_Produto
+
+---------------------------------------------------------------------------------------------------------------
+
+2. Cadastro de Funcionários (Escola)
+
+Entidade:
+	Funcionários
+
+Atributos:
+	ID (PK)
+	Nome
+	Data_Nascimento
+	CPF
+	RG
+	Profissão
+	Telefone
+	Sexo
+	Endereço
+	Tempo_Serviço
+	Tempo_Trabalhado_Anual
+	Salário
+
+-----------------------------------------------------------------------------------------------------------------
+
+3. Cadastro de Fornecedores (Tecido)
+
+Entidade:
+	Fornecedores
+
+Atributos:
+	Código_Fornecedor (PK)
+	Nome_Empresa
+	Data_Fundação
+	Qtd_Fornecedores
+	Endereço
+	CNPJ
+	Qtd_Estoque
+	Variedades
+
+-------------------------------------------------------------------------------------------------------------------
+
+4. Cadastro de Departamentos (Empresa)
+
+Entidade:
+	Departamentos
+
+Atributos:
+	ID_Bloco (PK)
+	Nome_Departamento
+	Qtd_Funcionarios
+	Nome_Funcionarios
+	Renda_Geral Destinada
+	Chefe_Departamento
+	
+
+
+
